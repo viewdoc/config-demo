@@ -3,3 +3,4 @@ theme:
   base: 'dark'
   options:
     backgroundColor: '#00696d'
+    foregroundColor: '#084499'
